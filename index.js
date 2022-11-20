@@ -1,17 +1,7 @@
-function hello(){
-    console.log("Hello World");
+const hello2 = '"Hello Node.js!"'
+
+const hello = () => {
+  console.log(hello2)
 }
 
 hello()
-
-
-
-
-
-
-function hello(){
-    console.log("hello World");
-}
-
-hello()
-
